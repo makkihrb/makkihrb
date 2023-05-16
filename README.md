@@ -76,10 +76,11 @@
 <br/>  
 
 
-**Bachelor in Computer Sciences**, ISIMA - Higher Institute of Informatics  in Mahdia (2021)
-Relevant coursework: Algorithms, Web Development, UML & Conception ,  IA & Machine Learning , Data Structures, Software Engineering and IoT...
-**Master in Software and Knowledge Engineering**, ISIMED - Higher Institute of Informatics  in Medenine (2023)
-Relevant coursework: Software Engineering, Knowledge Representation, Data Structures ,Algorithms, Dataware Houses, Computer Vision , Front and Back End Developpement ...
+- **Bachelor in Computer Sciences**, ISIMA - Higher Institute of Informatics  in Mahdia (2021)
+<p>   Relevant coursework: Algorithms, Web Development, UML & Conception ,  IA & Machine Learning , Data Structures, Software Engineering and IoT...</p>
+
+- **Master in Software and Knowledge Engineering**, ISIMED - Higher Institute of Informatics  in Medenine (2023)
+<p>   Relevant coursework: Software Engineering, Knowledge Representation, Data Structures ,Algorithms, Dataware Houses, Computer Vision , Front and Back End    Developpement ...</p>
 
   
 

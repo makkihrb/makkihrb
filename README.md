@@ -10,12 +10,11 @@
   
 
 - 🌱 I’m currently learning Back-end and MERN  
-  
+ 
 
 - ❓ Ask me about anything related to Front-end and ReactJS  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
